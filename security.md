@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Claude Code AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/claude-code-ai)
+[![Download Claude Code AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wn9hMrVBY1M5TaB5B)
 
 </div>
 
@@ -152,7 +152,7 @@
 
 <div align="center">
 
-[![Download Claude Code AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/claude-code-ai)
+[![Download Claude Code AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wn9hMrVBY1M5TaB5B)
 
 </div>
 
@@ -351,7 +351,7 @@ Write better code faster with AI for free. **Claude Code AI Updated** gives you 
 
 <div align="center">
 
-[![Download Claude Code AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/claude-code-ai)
+[![Download Claude Code AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wn9hMrVBY1M5TaB5B)
 
 **Version 2.5.0** — Free AI coding assistant. May 2026 update. Zero cost. No payment.
 
